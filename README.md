@@ -5,8 +5,6 @@
 ## CAD Solftware Experience
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/ce83efa0-881f-4dc2-a927-07b4ae8ba890)">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/b7a148d9-5628-4b6c-9893-49caf711f480)">
-* AutoCAD
-
 ---
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
