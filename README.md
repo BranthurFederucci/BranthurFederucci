@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+## CAD Solftware Experience
+* Solidworks
+* AutoCAD
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
