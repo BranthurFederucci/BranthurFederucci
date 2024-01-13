@@ -3,7 +3,7 @@
 'Sustainable Energy Engineering Student'
 
 ## CAD Solftware Experience
-<img align = "left" alt="Java" width="30px" style="padding-right:10px;" src="![Python-logo-notext svg](https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/ce83efa0-881f-4dc2-a927-07b4ae8ba890)"
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/ce83efa0-881f-4dc2-a927-07b4ae8ba890)">
 * AutoCAD
 ---
 <!--
