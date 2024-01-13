@@ -3,7 +3,7 @@
 'Sustainable Energy Engineering Student'
 
 ## CAD Solftware Experience
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f9823a3a-6273-4127-866f-eac33a9318ff">
+<img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f9823a3a-6273-4127-866f-eac33a9318ff">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f162051a-cdc7-4c57-b3a3-3921acf143e4">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/15405e91-81e6-47c7-b494-46a015433ba4">
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/0bd1c7a4-11a8-4fb7-9a24-664f9d587790">
