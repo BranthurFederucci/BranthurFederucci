@@ -31,7 +31,6 @@
 .
 
 # Project Work & Design Experience
-Within this section is all project work
 <!--Projects Section 1-->
 <h3 align="left">
 <details>
