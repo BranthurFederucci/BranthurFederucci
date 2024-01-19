@@ -40,6 +40,13 @@
   <summary><h3>Project 2</h3></summary>
     The second project
 </details
+
+<!--Projects Section-->
+<h4 align="left">
+<details>
+  <summary><h4>Project 3</h4></summary>
+    The third project
+</details
   
 <!--The Goodbye Section-->
 <h1 align="left">
