@@ -18,7 +18,7 @@
 <img align="left" alt="Java" width="38px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/42d330f1-7f77-4559-8cbd-1411ad6a2af1"/>
 <br/ >
 .
-
+<!--The Programming Icons-->
 ## Programming Languages and Software Experience
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/b7a148d9-5628-4b6c-9893-49caf711f480">
@@ -26,12 +26,20 @@
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br/ >
 
-#
+<!--Projects Section-->
+<details>
+  <summary><h3>Project 1</h3></summary>
+    The first project
+</details
+  
+<!--The Goodbye Section-->
 <h1 align="left">
   <a href="http://git.io/typing-svg">
     <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center&true&vCenter=true&width=550&height=70&duration=4000&lines=Have+a+Great+Day!;+I+Look+Forward+to+Meeting;" />
   </a>
 </h1>
+
+
 
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
