@@ -33,23 +33,23 @@
 # Project Work & Design Experience
 Within this section is all project work
 <!--Projects Section 1-->
-<h4 align="left">
+<h3 align="left">
 <details>
-  <summary><h4>Project 1</h4></summary>
+  <summary><h3>Project 1</h3></summary>
     The first project
 </details
 
 <!--Projects Section-->
-<h4 align="left">
+<h3 align="left">
 <details>
-  <summary><h4>Project 2</h4></summary>
+  <summary><h3>Project 2</h3></summary>
     The second project
 </details
 
 <!--Projects Section-->
-<h4 align="left">
+<h3 align="left">
 <details>
-  <summary><h4>Project 3</h4></summary>
+  <summary><h3>Project 3</h3></summary>
     The third project
 </details
 
