@@ -62,9 +62,9 @@ Within this section is all project work
     Work Flow
 </details
 
-##
 
 <!--The Goodbye Section-->
+##
 <h1 align="left">
   <a href="http://git.io/typing-svg">
     <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center&true&vCenter=true&width=550&height=70&duration=4000&lines=Have+a+Great+Day!;+I+Look+Forward+to+Meeting;" />
