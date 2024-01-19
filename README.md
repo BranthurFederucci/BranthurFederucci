@@ -63,6 +63,7 @@ Within this section is all project work
 </details
 
 ##
+
 <!--The Goodbye Section-->
 <h1 align="left">
   <a href="http://git.io/typing-svg">
