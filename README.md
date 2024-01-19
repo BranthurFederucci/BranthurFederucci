@@ -30,7 +30,7 @@
 <!--Projects Section-->
 
 <details>
-  <summary><h3>Project 1</h3></summary>
+  <summary><h3 align=left>Project 1</h3></summary>
     The first project
 </details
   
