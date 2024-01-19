@@ -27,7 +27,7 @@
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br/ >
 
-# Projects/Design Experience
+#
 <!--Projects Section 1-->
 <h3 align="left">
 <details>
