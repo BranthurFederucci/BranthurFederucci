@@ -25,6 +25,13 @@
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/b7a148d9-5628-4b6c-9893-49caf711f480">
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+<h1 align="left">
+  <a href="http://git.io/typing-svg">
+    <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&true&vCenter=true&width=550&height=70&duration=5000&lines=Have+a+Great+Day!;+I+look+forward+to+hearing+from+you;" />
+  </a>
+</h1>
+
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
