@@ -54,7 +54,9 @@ Within this section is all project work
     The third project
 </details
 
-<!--Projects Section-->
+#
+
+<!--Design Work Flow-->
 <h3 align="left">
 <details>
   <summary><h3>Design Work Flow</h3></summary>
