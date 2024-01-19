@@ -28,6 +28,7 @@
 <br/ >
 
 <!--Projects Section-->
+
 <details>
   <summary><h3>Project 1</h3></summary>
     The first project
