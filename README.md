@@ -62,7 +62,8 @@ Within this section is all project work
   <summary><h3>Design Work Flow</h3></summary>
     Work Flow
 </details
-  
+
+##
 <!--The Goodbye Section-->
 <h1 align="left">
   <a href="http://git.io/typing-svg">
