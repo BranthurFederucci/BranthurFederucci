@@ -27,7 +27,7 @@
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <br/ >
 
-
+<!--Projects Section-->
 <h3 align="left">
 <details>
   <summary><h3 align=left>Project 1</h3></summary>
@@ -41,7 +41,7 @@
   </a>
 </h1>
 
-<!--Projects Section-->
+
 
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
