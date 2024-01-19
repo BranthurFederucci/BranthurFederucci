@@ -3,7 +3,7 @@
     <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&true&vCenter=true&width=550&height=70&duration=5000&lines=Hi+There!;+I'm+Branthur+Federucci;" />
   </a>
 </h1>
-
+---
 <h3 align="left">A passionate engineering student
 
 **'Sustainable Energy Engineering Student'**
