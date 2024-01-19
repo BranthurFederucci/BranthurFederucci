@@ -53,6 +53,13 @@ Within this section is all project work
   <summary><h4>Project 3</h4></summary>
     The third project
 </details
+
+<!--Projects Section-->
+<h3 align="left">
+<details>
+  <summary><h3>Design Work Flow</h3></summary>
+    Work Flow
+</details
   
 <!--The Goodbye Section-->
 <h1 align="left">
