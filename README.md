@@ -19,6 +19,7 @@
 <br/ >
 .
 <!--The Programming Icons-->
+
 ## Programming Languages and Software Experience
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/b7a148d9-5628-4b6c-9893-49caf711f480">
