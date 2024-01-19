@@ -26,6 +26,8 @@
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 
+<br/ >
+<hr/ >
 <h1 align="left">
   <a href="http://git.io/typing-svg">
     <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&true&vCenter=true&width=550&height=70&duration=5000&lines=Have+a+Great+Day!;+I+look+forward+to+hearing+from+you;" />
