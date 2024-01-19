@@ -1,9 +1,7 @@
 
-<img align="right" src="http://visitor-badge.laobi.icu/badge?page_id=BranthurFederucci.BranthurFederucci" /> 
-
-
-# Branthur Federucci
-
+<h1 align="center">
+  <img src="http://readme-typing-svg.herokuapp.com/?
+font=Righteous&size=35&center&true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There
 
 **'Sustainable Energy Engineering Student'**
 
