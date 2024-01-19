@@ -60,10 +60,6 @@ Within this section is all project work
   </a>
 </h1>
 
-![Excel](https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/177271cd-d8f2-4895-ad42-eb942ef686a8)
-![SAP_2011_logo svg](https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/394a3f0b-cc50-44d7-8ca0-140e84a3379a)
-
-
 <!--
 **BranthurFederucci/BranthurFederucci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
