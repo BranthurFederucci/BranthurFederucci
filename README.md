@@ -30,7 +30,7 @@
 <hr/ >
 <h1 align="center">
   <a href="http://git.io/typing-svg">
-    <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&true&vCenter=true&width=550&height=70&duration=2000&lines=Have+a+Great+Day!;+Please+Soon;" />
+    <img src="http://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center&true&vCenter=true&width=550&height=70&duration=4000&lines=Have+a+Great+Day!;+I+Look+Forward+to+Meeting;" />
   </a>
 </h1>
 
