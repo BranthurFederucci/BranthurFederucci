@@ -29,16 +29,16 @@
 
 #
 <!--Projects Section 1-->
-<h3 align="left">
+<h4 align="left">
 <details>
-  <summary><h3>Project 1</h3></summary>
+  <summary><h4>Project 1</h4></summary>
     The first project
 </details
 
 <!--Projects Section-->
-<h3 align="left">
+<h4 align="left">
 <details>
-  <summary><h3>Project 2</h3></summary>
+  <summary><h4>Project 2</h4></summary>
     The second project
 </details
 
