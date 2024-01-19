@@ -7,7 +7,7 @@
 
 **'Sustainable Energy Engineering Student'**
 
-## CAD Software Experience
+# CAD Software Experience
 <img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f9823a3a-6273-4127-866f-eac33a9318ff"/>
 <img align="left" alt="Java" width="80px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f162051a-cdc7-4c57-b3a3-3921acf143e4"/>
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
@@ -20,7 +20,7 @@
 .
 <!--The Programming Icons-->
 
-## Programming Languages and Software Experience
+# Programming Languages and Software Experience
 <img align="left" alt="Java" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 <img align="left" alt="Java" width="32px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/b7a148d9-5628-4b6c-9893-49caf711f480">
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
@@ -30,8 +30,7 @@
 <br/ >
 .
 
-###
-## Project Work & Design Experience
+# Project Work & Design Experience
 Within this section is all project work
 <!--Projects Section 1-->
 <h4 align="left">
