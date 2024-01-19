@@ -4,7 +4,7 @@
   </a>
 </h1>
 
-<h3 align="center">A passionate engineering student
+<h3 align="left">A passionate engineering student
 
 **'Sustainable Energy Engineering Student'**
 
