@@ -26,7 +26,7 @@
 <img align="left" alt="Java" width="40px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"/>
 <img align="left" alt="Java" width="35px" style="padding-right:5px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
 <img align="left" alt="Java" width="55px" style="padding-right:5px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/177271cd-d8f2-4895-ad42-eb942ef686a8"/>
-<img align="left" alt="Java" width="70px" style="padding-right:5px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/394a3f0b-cc50-44d7-8ca0-140e84a3379a"/>
+<img align="left" alt="Java" width="69px" style="padding-right:5px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/394a3f0b-cc50-44d7-8ca0-140e84a3379a"/>
 <br/ >
 .
 
