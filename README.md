@@ -28,7 +28,7 @@
 <br/ >
 
 
-
+<h1 align="left">
 <details>
   <summary><h3 align=left>Project 1</h3></summary>
     The first project
