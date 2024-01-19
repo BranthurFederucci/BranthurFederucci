@@ -12,6 +12,7 @@
 <img align="left" alt="Java" width="37px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f4aef9de-5f33-41bf-990e-1e35ee4ec9f6"/>
 <img align="left" alt="Java" width="38px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/42d330f1-7f77-4559-8cbd-1411ad6a2af1"/>
 <br/ >
+.
 
 ## Programming Languages and Software Experience
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/ce83efa0-881f-4dc2-a927-07b4ae8ba890">
