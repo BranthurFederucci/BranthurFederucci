@@ -5,7 +5,7 @@
 </h1>
 <h3 align="left">A passionate engineering student
 
-**'Sustainable Energy Engineering Student'**
+**Sustainable Energy Engineering Student**
 
 # CAD Software Experience
 <img align="left" alt="Java" width="100px" style="padding-right:10px;" src="https://github.com/BranthurFederucci/BranthurFederucci/assets/156545216/f9823a3a-6273-4127-866f-eac33a9318ff"/>
